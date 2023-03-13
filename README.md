@@ -1,8 +1,11 @@
 # 2C_HTML_CSS
 
 Professora: Letícia Carla de Carvalho
+
 Matéria: Programação(matemática II)
+
 Turma: 2C
+
 Alunos:
 ALLAN KIYOSHI AMORIM MORI
 CAMILY VICTORIA MENDES RIBEIRO
